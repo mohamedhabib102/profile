@@ -114,7 +114,7 @@
     },
     {
       "name": "Online Store App",
-      "link": "https://mohamedhabib102.github.io/online-Store/",
+      "link": "https://buynowit.netlify.app/",
       "image": "/images/item-7.PNG",
       "category": "React js",
       "technologies": [
@@ -138,7 +138,7 @@
     },
     {
       "name": "Portfolio App",
-      "link": "https://example.com/cart",
+      "link": "https://m-habib-portfolio.netlify.app/",
       "image": "/images/item-8.PNG",
       "category": "React js",
       "technologies": [
@@ -156,31 +156,35 @@
         },
         {
           "name": "tailwind",
-          "icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 36 36\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M25.517 0C18.712 0 14.46 3.382 12.758 10.146c2.552-3.382 5.529-4.65 8.931-3.805 1.941.482 3.329 1.882 4.864 3.432 2.502 2.524 5.398 5.445 11.722 5.445 6.804 0 11.057-3.382 12.758-10.145-2.551 3.382-5.528 4.65-8.93 3.804-1.942-.482-3.33-1.882-4.865-3.431C34.736 2.92 31.841 0 25.517 0zM12.758 15.218C5.954 15.218 1.701 18.6 0 25.364c2.552-3.382 5.529-4.65 8.93-3.805 1.942.482 3.33 1.882 4.865 3.432 2.502 2.524 5.397 5.445 11.722 5.445 6.804 0 11.057-3.381 12.758-10.145-2.552 3.382-5.529 4.65-8.931 3.805-1.941-.483-3.329-1.883-4.864-3.432-2.502-2.524-5.398-5.446-11.722-5.446z\" fill=\"#38bdf8\"></path></svg>"
+          "icon": "/images/tailwind-css-remove-bg.png"
         }
       ]
     },
     {
-      "name": "Coming soon",
-      "link": "https://example.com/cart",
+      "name": "To Do List App",
+      "link": "https://mhabib-to-do-list-app.netlify.app/",
+      "image": "/images/item-10.PNG",
+      "category": "React js",
+      "technologies": [
+        {
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon"
+        },
+        {
+          "name": "tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png"
+        }
+      ]
+    },
+    {
+      "name": "Coming Soon",
+      "link": "#",
       "image": "/images/item-9.png",
       "category": "React js",
       "technologies": [
         {
-          "name": "JavaScript",
-          "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968292.png"
-        },
-        {
-          "name": "React",
-          "icon": "https://cdn-icons-png.flaticon.com/512/919/919851.png"
-        },
-        {
-          "name": "CSS",
-          "icon": "https://cdn-icons-png.flaticon.com/512/732/732190.png"
-        },
-        {
-          "name": "Bootstrap",
-          "icon": "https://cdn-icons-png.flaticon.com/512/5968/5968672.png"
+          "name": "comming soon",
+          "icon": ""
         }
       ]
     }
