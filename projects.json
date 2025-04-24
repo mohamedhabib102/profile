@@ -1,0 +1,192 @@
+{
+  "projects": [
+    {
+      "name": "SEO Master App",
+      "link": "https://mohamedhabib102.github.io/SEO-Master/",
+      "image": "/images/item-1.PNG",
+      "category": "HTML & CSS",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        }
+      ]
+    },
+    {
+      "name": "Chain App",
+      "link": "https://mohamedhabib102.github.io/Chain-App/",
+      "image": "/images/item-2.PNG",
+      "category": "HTML & CSS",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        }
+      ]
+    },
+    {
+      "name": "Bondi App",
+      "link": "https://mohamedhabib102.github.io/Bondi-App/",
+      "image": "/images/item-3.PNG",
+      "category": "HTML & CSS",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "fa-brands fa-bootstrap boot-icon"
+        }
+      ]
+    },
+    {
+      "name": "Special Design App",
+      "link": "https://mohamedhabib102.github.io/Special-Design/",
+      "image": "/images/item-4.PNG",
+      "category": "Pure JavaScript",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon"
+        }
+      ]
+    },
+    {
+      "name": "Game X O",
+      "link": "https://mohamedhabib102.github.io/GameXO/",
+      "image": "/images/item-5.PNG",
+      "category": "Pure JavaScript",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard App",
+      "link": "https://mohamedhabib102.github.io/potfolio/",
+      "image": "/images/item-6.PNG",
+      "category": "Pure JavaScript",
+      "technologies": [
+        {
+          "name": "HTML",
+          "icon": "fa-brands fa-html5 html-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon"
+        }
+      ]
+    },
+    {
+      "name": "Online Store App",
+      "link": "https://buynowit.netlify.app/",
+      "image": "/images/item-7.PNG",
+      "category": "FreamWork",
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon"
+        },
+        {
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        },
+        {
+          "name": "Bootstrap",
+          "icon": "fa-brands fa-bootstrap boot-icon"
+        }
+      ]
+    },
+    {
+      "name": "Portfolio App",
+      "link": "https://m-habib-portfolio.netlify.app/",
+      "image": "/images/item-8.PNG",
+      "category": "FreamWork",
+      "technologies": [
+        {
+          "name": "JavaScript",
+          "icon": "fa-brands fa-js js-icon"
+        },
+        {
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon"
+        },
+        {
+          "name": "CSS",
+          "icon": "fa-brands fa-css3 css-icon"
+        },
+        {
+          "name": "tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png"
+        }
+      ]
+    },
+    {
+      "name": "To Do List App",
+      "link": "https://mhabib-to-do-list-app.netlify.app/",
+      "image": "/images/item-10.PNG",
+      "category": "FreamWork",
+      "technologies": [
+        {
+          "name": "React",
+          "icon": "fa-brands fa-react react-icon"
+        },
+        {
+          "name": "tailwind",
+          "icon": "/images/tailwind-css-remove-bg.png"
+        }
+      ]
+    },
+    {
+      "name": "Coming Soon",
+      "link": "#",
+      "image": "images/item-9.png",
+      "category": "FreamWork",
+      "technologies": [
+        {
+          "name": "comming soon",
+          "icon": ""
+        }
+      ]
+    }
+  ]
+}
